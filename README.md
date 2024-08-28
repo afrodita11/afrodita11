@@ -2,7 +2,7 @@
 - 👀 I’m interested in Clinical informatics
 - 🌱 I’m currently learning Full Stack Java Script Programming
 - 💞️ I’m looking to collaborate on the area of ​​health informatics
-- 📫 How to reach me can you talk to me
+- 📫 How to reach me c.tatiana.nunez@gmail.com
 - 😄 Pronouns: Taty
 - ⚡ Fun fact: I always seek to update myself with what is advancing in technology.
 ## Languages And Tools
